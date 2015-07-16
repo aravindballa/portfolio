@@ -1,0 +1,43 @@
+.section-contact
+	background: white
+
+	.social-links
+		max-width: 700px
+		margin: 0px auto 50px
+		+display(flex)
+		+justify-content(space-around)
+
+		a
+			display: block
+			+transition
+
+			&:hover
+				+transform(scale(1.2))
+
+.bar
+	width: 250px
+	height: 0px
+	border-top: 4px solid $accent
+	margin: 0px auto 10px
+
+.big-link
+	display: block
+	text-align: center
+	color: $secondary
+	font:
+		family: 'Open Sans'
+		size: 72px
+		weight: 300
+	margin-bottom: 20px
+	margin-top: 20px
+	+transition
+
+	&:hover
+		+transform(scale(1.1) rotate(-0.4deg))
+		opacity: 0.95
+	
+	@media screen and (max-width: 820px)
+		font-size: 54px
+
+	@media screen and (max-width: 460px)
+		font-size: 32px

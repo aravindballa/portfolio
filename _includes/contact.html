@@ -1,0 +1,18 @@
+<section class="alt-section section-contact">
+	
+	<h3 id="contact">Contact</h3>
+
+	<div class="social-links">
+		
+		{% for social in site.data.settings.social-links %}
+			<a href={{ social.link }}>{% include {{ social.file }} %}</a>
+
+		{% endfor %}
+
+	</div>
+
+	<hr class="bar">
+
+	<a href="mailto:bsaaravind@gmail.com" class="big-link">bsaaravind@gmail.com</a>
+
+</section>

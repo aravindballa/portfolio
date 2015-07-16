@@ -1,0 +1,22 @@
+
+
+
+#--------------------------------------------------------------
+# Work Section
+
+projects:
+- {name: You're on it!, folder: 'proj-1', link: "#"}
+- {name: Behance, folder: 'proj-2', button: "Check'em", link: "https://www.behance.net/aravindballa"}
+- {name: Dribbble, folder: 'proj-3', button: "Check out", link: "https://dribbble.com/aravindballa"}
+
+
+#--------------------------------------------------------------
+# Contact Section
+
+social-links:
+- {name: Facebook, link: "https://www.facebook.com/aravind.balla", file: contact-icons/fb.html}
+- {name: Twitter, link: "https://twitter.com/aravind_bad", file: contact-icons/twitter.html}
+- {name: Google+, link: "https://plus.google.com/+AravindBalla", file: contact-icons/gplus.html}
+- {name: LinkedIn, link: "http://in.linkedin.com/in/aravindballa", file: contact-icons/linkedin.html}
+- {name: GitHub, link: "https://github.com/aravindballa", file: contact-icons/github.html}
+- {name: Stack Overflow, link: "http://stackoverflow.com/users/4306729/aravind-balla", file: contact-icons/stack.html}
