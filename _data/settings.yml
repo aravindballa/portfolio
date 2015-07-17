@@ -23,3 +23,13 @@ social-links:
 - {name: LinkedIn, link: "http://in.linkedin.com/in/aravindballa", file: contact-icons/linkedin.html}
 - {name: GitHub, link: "https://github.com/aravindballa", file: contact-icons/github.html}
 - {name: Stack Overflow, link: "http://stackoverflow.com/users/4306729/aravind-balla", file: contact-icons/stack.html}
+
+#-------------------------------
+# SEO Section
+
+
+seo:
+  description: 'Portfolio of Aravind Balla'
+  keywords: 'Portfolio, aravind, balla, aravindballa, aravind balla'
+  rel-author: 'https://plus.google.com/u/+AravindBalla/'
+  rel-publisher: 'https://plus.google.com/+AravindBalla'
