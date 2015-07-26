@@ -1,4 +1,7 @@
 
+#--------------------------------------------------------------
+# About Section
+avatar: img/face.jpg
 
 
 #--------------------------------------------------------------
@@ -20,3 +23,13 @@ social-links:
 - {name: LinkedIn, link: "http://in.linkedin.com/in/aravindballa", file: contact-icons/linkedin.html}
 - {name: GitHub, link: "https://github.com/aravindballa", file: contact-icons/github.html}
 - {name: Stack Overflow, link: "http://stackoverflow.com/users/4306729/aravind-balla", file: contact-icons/stack.html}
+
+#-------------------------------
+# SEO Section
+
+
+seo:
+  description: 'Aravind Balla is a 19 year old undergrad student, who spends most of the time making stuff.'
+  keywords: 'aravind, balla, aravindballa, aravind balla, aravind.balla, aravind-balla, aravind balla portfolio, portfolio of aravind balla'
+  rel-author: 'https://plus.google.com/u/+AravindBalla/'
+  rel-publisher: 'https://plus.google.com/+AravindBalla'
